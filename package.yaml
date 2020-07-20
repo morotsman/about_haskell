@@ -27,7 +27,7 @@ library:
 
 executables:
   Demo-exe:
-    main:                Main.hs
+    main:                BMI_Main.hs
     source-dirs:         app
     ghc-options:
     - -threaded
